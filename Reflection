@@ -1,0 +1,19 @@
+> What was the problem you were solving in the projects for this course?
+
+The problem that needed to be solved was a way for advisors to efficiently and effectively sort through courses and determine the course Id, course name, and the prerequisites that were needed for the specified course.
+
+> How did you approach the problem? Consider why data structures are important to understand.
+
+Approaching this problem was difficult because there are a few data structures that could have been used. Choosing the correct data structure was the hardest challenge, but overall I believe I made the right decision.
+
+> How did you overcome any roadblocks you encountered while going through the activities or project?
+
+When I encountered road blocks with these projects, I always reverted back to the roots of ZyBooks to see if there was something simple that I overlooked. From there I would research on stack overflow to see if anyone else had the same problem, as well as a solution.
+
+> How has your work on this project expanded your approach to designing software and developing programs?
+
+My work on this project was defined by taking my time and understanding what I was writing. Making sure that everything talked harmoniously, was really beneficial to my learning.
+
+> How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+
+Keeping track of functions, classes, and structs really proved to be effective. Writing each piece in order to make sure it coincided correctly helped with understanding the process better.
